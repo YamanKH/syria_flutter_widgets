@@ -32,11 +32,3 @@ Run the example app to see the widgets in action:
 flutter run example/lib/main.dart
 ```
 
-## Publishing
-
-This project is already configured as a publishable package (`lib/syria_flutter_widgets.dart` exports the API and `lib/src/syrian_flag.dart` holds the implementations). Before publishing to pub.dev:
-
-1. Update `CHANGELOG.md` with any changes.
-2. Confirm `pubspec.yaml` metadata (version, description, homepage, etc.).
-3. Run `flutter pub publish --dry-run`.
-4. When ready, run `flutter pub publish` (you must be logged in via `dart pub login` or `flutter pub login`).

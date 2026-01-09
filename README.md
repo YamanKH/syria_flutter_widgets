@@ -35,5 +35,3 @@ flutter run example/lib/main.dart
 Here’s a screenshot of the example app:
 
 ![Syrian flag widgets example](screenshot-2026-01-09.png)
-
-

@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+example/.gitignore
+example/.metadata
+example/analysis_options.yaml
+example/README.md
+example/web/favicon.png
+example/web/index.html
+example/web/manifest.json
+example/web/icons/Icon-192.png
+example/web/icons/Icon-512.png
+example/web/icons/Icon-maskable-192.png
+example/web/icons/Icon-maskable-512.png
